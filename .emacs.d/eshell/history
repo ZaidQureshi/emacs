@@ -1,0 +1,86 @@
+cd .emacs.d/elpa/helm-20170622.126/
+./emacs-helm.sh 
+ls
+cd ..
+cd .emacs.d/
+ls
+cd elpa/
+ls
+rm -rf page-break-lines-20170517.235/
+cd .emacs.d/
+cd elpa/
+ls
+ls .emacs.d/elpa/
+cd ../.emacs.d/packages/
+ls
+wget https://raw.githubusercontent.com/emacsmirror/ox-twiki/master/ox-tiddly.el
+wget https://raw.githubusercontent.com/emacsmirror/ox-twiki/master/ox-twiki.el
+ls
+cd .emacs.d/
+ls
+mkdir custom
+mv packages/ custom/
+cd custom/
+mkdir themes
+ls
+cd ..
+ls
+mkdit test_git
+mkdir test_git
+cd test_git/
+git init
+touch test.js
+touch blank.html
+rm -rf test.pdf 
+cd ../cabstorm/
+git clone git@bitbucket.org:cabstry/app-server.git
+git clone https://zaidhorse@bitbucket.org/cabstry/app-server.git
+clear
+
+cd app-server/
+ls
+cd ..
+wget https://zaidhorse@bitbucket.org/cabstry/app-client.git
+git clone https://zaidhorse@bitbucket.org/cabstry/app-client.git
+cd app-server/
+ls
+npm install
+npm start
+sudo npm i -g npm
+npm install
+sudo pacman -S node
+sudo pacman -S nodejs
+sudo pacman -S nopm
+sudo pacman -S npm
+npm install
+npm start
+npm start
+cd
+cd .emacs.d/custom/packages/
+wget https://www.emacswiki.org/emacs/download/webkit.el
+yaourt emacs
+ls
+ls -al
+cp Desktop/archlinux.png .emacs.d/custom/archlinux.png
+ls
+echo $PATH
+clear
+
+htop
+ls
+cd ../.emacs.d
+cd custom/
+wget https://raw.githubusercontent.com/jtamagnan/hangups.el/master/hangups.el
+rm hangups.el 
+clea
+clear
+
+python
+clear
+
+cp orgMode/test.org .
+rm -rf test.org
+ls
+ls -al
+clear
+
